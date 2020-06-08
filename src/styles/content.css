@@ -1,0 +1,26 @@
+.timer-container {
+  width: 100%;
+}
+
+.timer-container .title-content{
+  font-size: 30px;
+  text-align: center;
+}
+
+.length-content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+button {
+  color: white ;
+  background-color: transparent;
+  border: transparent;
+}
+
+svg {
+  transform: scale(1.5);
+
+}

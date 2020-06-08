@@ -1,0 +1,21 @@
+.time{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;  
+  border-radius: 56px;
+  margin: 5px;
+}
+
+#countTime {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+#timer-label {
+  margin: 5px;
+}
+
+
